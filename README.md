@@ -1,5 +1,5 @@
-*index.html*
-```html
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <img src="your-logo-url.png" alt="Seamless Rollforming Inc. Logo" class="logo">
+        <img src="f9e9fa94-86f2-4112-9c61-c58ff7dc5cb9" alt="Seamless Rollforming Inc. Logo" class="logo">
         <h1>Seamless Rollforming Inc.</h1>
         <nav>
             <ul>
